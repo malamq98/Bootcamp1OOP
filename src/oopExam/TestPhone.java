@@ -1,5 +1,10 @@
 package oopExam;
 
+/*Phone,Pager, Wakitoki are the Hierarchical inheritance
+ * Iphone1,Iphone2,Iphone4,Iphone5 ,Iphone6,ConfiguredIphone6 and Applewatch  are the Multilevel inheritance
+ * Iphone3 is the Single inheritance
+ */
+
 public class TestPhone {
 
 	public static void main(String[] args) {
